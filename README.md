@@ -1,6 +1,9 @@
 # Brain tumor classification using Convolutional Neural Network
 
-For this project, I am using a 2D Convolutional Neural Network with `nine` hidden layers to classify 2D MRI brain scan images as tumorous or non-tumorous. Model was built with Tensorflow, utilizing the Keras API. Model's input is composed of standardized 240x240x1 single-channel image arrays. After training, an image passed to the model will produce a prediction of either 1 (tumorous) or 0 (non-tumorous).
+Brain Tumor classifier using fastai and PyTorch.
+
+
+Application in jupyter 📙 notebook by using widgets.
 
 ## DataSet 
 ```
@@ -20,8 +23,8 @@ tumorous
 
 non-tumorous
 
-
-## 
+## Testing 
+![capture](https://user-images.githubusercontent.com/95575122/169313357-7f2bf26b-e3db-4501-b319-eddb726bd8d4.JPG)
 
 
 ## Training
@@ -29,8 +32,3 @@ non-tumorous
 ```shell script
 
 ```
-
-## Testing 
-
-
-## Citation
